@@ -14,7 +14,7 @@ In this competition, you’ll identify and segment functional tissue units (FTUs
 
 If successful, you'll help accelerate the world’s understanding of the relationships between cell and tissue organization. With a better idea of the relationship of cells, researchers will have more insight into the function of cells that impact human health. Further, the Human Reference Atlas constructed by HuBMAP will be freely available for use by researchers and pharmaceutical companies alike, potentially improving and prolonging human life.
 
-Dataset Description
+### **Dataset Description**
 
 The goal of this competition is to identify the locations of each functional tissue unit (FTU) in biopsy slides from several different organs. The underlying data includes imagery from different sources prepared with different protocols at a variety of resolutions, reflecting typical challenges for working with medical data.
 
@@ -22,7 +22,8 @@ This competition uses data from two different consortia, the Human Protein Atlas
 
 This competition uses a hidden test. When your submitted notebook is scored the actual test data (including a full length sample submission) will be made available to your notebook.
 
-Files
+### **Files**
+
 [train/test].csv Metadata for the train/test set. Only the first few rows of the test set are available for download.
 
 id - The image ID.
