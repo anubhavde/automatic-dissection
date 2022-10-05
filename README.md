@@ -35,7 +35,7 @@ This project uses data from two different consortia, the [Human Protein Atlas](h
 - ```tissue_thickness``` - The thickness of the biopsy sample in micrometers. All HPA images have a thickness of 4 µm. The HuBMAP samples have tissue slice thicknesses 10 µm for kidney, 8 µm for large intestine, 4 µm for spleen, 5 µm for lung, and 5 µm for prostate.
 - ```rle``` - The target column. A run length encoded copy of the annotations. Provided for the training set only.
 - ```age``` - The patient's age in years. Provided for the training set only.
-- ```sex``` - The sex of the patient. Provided for the training set only.
+- ```sex``` - The gender of the patient. Provided for the training set only.
 
 **sample_submission.csv**
 
